@@ -8,7 +8,6 @@ public class nome {
 
     public static void Ni() {
         Scanner sc = new Scanner(System.in);
-
         System.out.println("Digite seu nome:\n  ");
         String nome = sc.nextLine();
         System.out.println("Seu nome é  " + nome);
